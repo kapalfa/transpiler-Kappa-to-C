@@ -1,0 +1,5 @@
+a:integer;
+def main():
+
+a=1;
+enddef;
